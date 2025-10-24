@@ -4,5 +4,5 @@ Vehicles, Weapons, Buildings, Trees, Rocks, are placed randomly to add a chaotic
 The goal of this game is to procure fun to the player, with the most chaos and funny situations with the least bugs.
 Our goal, at Hydrogen Studios, is to keep our games user-friendly, with our passion for game development.
 As we currently can't upload the entire project here, we'll upload the 3D models, as well as the scripts, and other external assets.
-Once the project finished, you'll probably find it on itch.io (we'll add a link to the game) and maybe later on steam.
+Once the project is finished, you'll probably find it on itch.io (we'll add a link to the game) and maybe later on steam.
 We'll try to add the finished build on github as well.
